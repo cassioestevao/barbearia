@@ -1,0 +1,64 @@
+
+.home {
+    background-image: url('https://img.freepik.com/fotos-gratis/jovem-na-barbearia-aparando-cabelo_1303-26254.jpg?t=st=1724341476~exp=1724342076~hmac=d503d0f64834039e099e518b8f77001e6c9f0cbceba78e0c4d1d641b7b4df8bb');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #070606;
+    text-align: center;
+    padding: 20px;
+}
+
+.home h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+.home .box-descript {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.home .box-descript .textside {
+    flex: 1;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.home .box-descript .text-aside {
+    flex: 1;
+    background-color: rgba(0, 188, 212, 0.8);
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Botão WhatsApp no final da sessão */
+.home .whatsapp {
+    margin-top: auto;
+    background-color: #25D366;
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    align-self: center;
+}
+
+.home .whatsapp:hover {
+    background-color: #128C7E;
+}
