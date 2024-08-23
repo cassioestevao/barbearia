@@ -7,4 +7,4 @@
 <h1> Barbearia</h1>
 <br>
 <h2>Status do Projeto: em desenvolvimento.</h2>
-<h3>Data prevista de finaliação: 30/08 </h3>
+<h3>Data prevista de finalização: 30/08 </h3>
