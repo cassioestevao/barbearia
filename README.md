@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/6beff7ed-7912-4834-bfc1-744488b9606b)
 ![image](https://github.com/user-attachments/assets/1f27f7bd-c68b-47f1-88c3-a21ac0d9cbcf)
 
-<h1> Barbearia</h1>
+<h1>Barbearia Josuel</h1>
 <br>
 <h2>Status do Projeto: em desenvolvimento.</h2>
 <h3>Data prevista de finalização: 30/08 </h3>
