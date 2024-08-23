@@ -1,0 +1,36 @@
+.testimonial {
+    display: relative;
+    font-size: 1.5rem;
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+
+    & .container-cortes {
+        display: flex;
+        flex-direction: column;
+        border: 4px double blue;
+        border-radius: 20px;
+        width: 300px;
+
+        & .windowns-img {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            padding: 20px 20px;
+
+            & .image-01 img{
+                width: 50%;
+                left: 40%;
+            }
+        }
+    }
+}
+
+.cortes {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* 3 colunas padrão */
+    justify-items: center;
+    row-gap: 60px;
+}
+
+/* Para telas com largura máxima de 1050px */
