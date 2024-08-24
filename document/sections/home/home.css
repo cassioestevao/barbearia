@@ -1,7 +1,8 @@
 
 .home {
-    background-image: url("");
+    background-image: url("https://picsum.photos/1200/800");
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
     display: flex;
