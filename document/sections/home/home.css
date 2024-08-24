@@ -1,6 +1,6 @@
 
 .home {
-    background-image: url("https://img.freepik.com/fotos-gratis/homem-em-um-salao-de-barbearia-fazendo-o-corte-de-cabelo-e-barba_1303-20954.jpg?t=st=1724426976~exp=1724430576~hmac=eb513ac07854b127df8c038018de9c129090bfba2bb0a027a661c7e742a87f06&w=740");
+    background-image: url("https://img.freepik.com/fotos-gratis/mulher-bonita-que-prepara-o-cabelo-do-homem_23-2147737064.jpg?w=740&t=st=1724432222~exp=1724432822~hmac=68e35eeb0f4e5a89aa289eeec2ac9e700e3fa7fd2d1740db641b98c82157c312");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -10,7 +10,7 @@
     align-items: center;
     color: #070606;
     text-align: center;
-    padding: 20px;
+    padding: 20px 20px;
 }
 
 .home h1 {
