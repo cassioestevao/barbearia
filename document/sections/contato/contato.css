@@ -1,26 +1,5 @@
 /* Estilos para a seção "Marque seu Horário" */
-section {
-    padding: 60px 20px;
-    background-color: #f4f4f4;
-    color: #333;
-    text-align: center;
-}
 
-section h1 {
-    font-size: 2.5rem;
-    margin-bottom: 40px;
-    color: #00bcd4;
-    position: relative;
-}
-
-section h1::after {
-    content: '';
-    width: 80px;
-    height: 5px;
-    background-color: #00bcd4;
-    display: block;
-    margin: 20px auto 0;
-}
 
 /* Estilização do contêiner de texto e imagem */
 .box-text-horario {

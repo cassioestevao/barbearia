@@ -1,6 +1,6 @@
 
 .home {
-    background-image: url("https://img.freepik.com/fotos-gratis/mulher-bonita-que-prepara-o-cabelo-do-homem_23-2147737064.jpg?w=740&t=st=1724432222~exp=1724432822~hmac=68e35eeb0f4e5a89aa289eeec2ac9e700e3fa7fd2d1740db641b98c82157c312");
+    background-image: url("");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -11,6 +11,8 @@
     color: #070606;
     text-align: center;
     padding: 20px 20px;
+    filter: drop-shadow(0 0 20px black);
+
 }
 
 .home h1 {
@@ -18,6 +20,7 @@
     margin-bottom: 20px;
     text-transform: uppercase;
     letter-spacing: 4px;
+    color: #333333;
     text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
 }
 
@@ -32,14 +35,16 @@
 
 .home .box-descript .textside {
     flex: 1;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: #8b9dc3;
     padding: 20px;
     border-radius: 10px;
+    color: white;
+    text-decoration: none;
 }
 
 .home .box-descript .text-aside {
     flex: 1;
-    background-color: rgba(0, 188, 212, 0.8);
+    background-color: #3b5998;
     color: #fff;
     padding: 20px;
     border-radius: 10px;
@@ -61,4 +66,28 @@
 
 .home .whatsapp:hover {
     background-color: #128C7E;
+}
+
+section {
+    padding: 60px 20px;
+    background-color: #f4f4f4;
+    color: white;
+    text-align: center;
+}
+
+section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+    color: #333333;
+    position: relative;
+}
+
+section h1::after {
+    content: '';
+    width: 120px;
+    border-radius: 2px;
+    height: 5px;
+    background-color: #333333;
+    display: block;
+    margin: 20px auto 0;
 }

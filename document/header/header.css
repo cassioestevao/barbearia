@@ -1,10 +1,13 @@
 .header {
-  background-color: #222;
+  background-color: #3b5998;
   padding: 20px 0;
   text-align: center;
   position: sticky;
   top: 0;
   z-index: 1000;
+  border-radius: 2px;
+  filter: drop-shadow(0 0 20px black);
+
 }
 
 .header nav ul {
