@@ -5,7 +5,16 @@
     --color-for: #555555;
     --color-for: #E0E0E0;
 }
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    overflow-x: hidden;
 
+      
+  }
+  
 body {
     font-family: 'Poppins', sans-serif;
 }
@@ -23,26 +32,26 @@ hr{
 
 #services {
     background-color: var(--color-main);
-    width: 100%;
+    width: auto;
 }
 #team{
     background-color: var(--color-main);
-    width: 100%;
+    width: auto;
 }
 
 #gallery{
     background-color: var(--color-main);
-    width: 100%;
+    width: auto;
 }
 
 #prices{
     height: 100vh;
     background-color: var(--color-main);
-    width: 100%;
+    width: auto;
 }
 #contact{
     background-color: var(--color-main);
-    width: 100%;
+    width: auto;
 }
 /*  */
 
