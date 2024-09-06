@@ -1,0 +1,27 @@
+.animate__animated {
+    animation-duration: 1.5s;
+    /* Duração da animação */
+    animation-delay: 0.5s;
+    /* Adiciona um atraso antes de começar */
+}
+
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+        /* Começa abaixo */
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+        /* Termina na posição original */
+    }
+}
+
+.fade-in-up {
+    opacity: 0; /* Começa invisível */
+    animation: fadeInUp 1s ease-out forwards; /* Duração de 1s, suavização */
+    animation-delay: 0.3s; /* Adicione um atraso, se necessário */
+  }
+  
