@@ -1,8 +1,7 @@
 # 💈 Projeto de Website para Barbearia - [Barbearia-Josuel]
-![Barber Shop Banner](link-da-imagem)
 ## 🧾 Sobre o Projeto
 
-Este projeto é um site moderno e responsivo desenvolvido para a **[Nome da Barbearia]**. O objetivo é proporcionar uma plataforma digital para a barbearia, onde clientes possam visualizar serviços, agendar horários e conhecer mais sobre o estabelecimento de forma prática e intuitiva.
+Este projeto é um site moderno e responsivo desenvolvido para a **[Barbearia-Josuel]**. O objetivo é proporcionar uma plataforma digital para a barbearia, onde clientes possam visualizar serviços, agendar horários e conhecer mais sobre o estabelecimento de forma prática e intuitiva.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -10,7 +9,7 @@ Este projeto é um site moderno e responsivo desenvolvido para a **[Nome da Barb
 - **CSS3**: Estilização avançada com Flexbox e Grid.
 - **JavaScript**: Interatividade e animações no site.
 - **Figma**: Criação do design do site e prototipação.
-- **[Outra tecnologia relevante]**
+
 - 
 ## 🖼️ Capturas de Tela
 ![image](https://github.com/user-attachments/assets/735679e6-dfbd-430a-80a4-35a56b48fb5c)
