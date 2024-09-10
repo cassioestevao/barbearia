@@ -1,7 +1,7 @@
 # 💈 Projeto de Website para Barbearia - [Barbearia-Josuel]
 ## 🧾 Sobre o Projeto
 
-Este projeto é um site moderno e responsivo desenvolvido para a **[Barbearia-Josuel]**. O objetivo é proporcionar uma plataforma digital para a barbearia, onde clientes possam visualizar serviços, agendar horários e conhecer mais sobre o estabelecimento de forma prática e intuitiva.
+Este projeto é um site moderno e responsivo desenvolvido para a **[ Barbearia-Josuel ]**. O objetivo é proporcionar uma plataforma digital para a barbearia, onde clientes possam visualizar serviços, agendar horários e conhecer mais sobre o estabelecimento de forma prática e intuitiva.
 
 ## 🚀 Tecnologias Utilizadas
 
